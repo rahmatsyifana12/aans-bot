@@ -1,0 +1,10 @@
+{
+    "key": "value",
+    "char": "b",
+    "array": ["what", "is", "up", "ma", "friend"],
+    "new-object": {
+        "user": "rahmat",
+        "number": "12",
+        "array": ["what", "is", "up", "ma", "friend"]
+    }
+}
